@@ -1,0 +1,178 @@
+[2015-01-24 10:47:05  - Info ] Inicio test base de datos MongoDB
+[2015-01-24 10:47:06  - Info ] Inicio test: MON_1 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:07  - Info ] Número de ocurrencias encontradas: 24207
+[2015-01-24 10:47:07  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:07  - Info ] Inicio test: MON_2 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:07  - Info ] Número de ocurrencias encontradas: 75695
+[2015-01-24 10:47:07  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:07  - Info ] Inicio test: MON_3 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:07  - Info ] Número de ocurrencias encontradas: 7683
+[2015-01-24 10:47:07  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:07  - Info ] Inicio test: MON_4 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:08  - Info ] Número de ocurrencias encontradas: 1
+[2015-01-24 10:47:08  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:08  - Info ] Inicio test: MON_5 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:08  - Info ] Número de ocurrencias encontradas: 1
+[2015-01-24 10:47:08  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:08  - Info ] Inicio test: MON_6 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:08  - Info ] Número de ocurrencias encontradas: 500
+[2015-01-24 10:47:08  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:08  - Info ] Inicio test: MON_7 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:08  - Info ] Número de ocurrencias encontradas: 587
+[2015-01-24 10:47:08  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:08  - Info ] Inicio test: MON_8 fichero: 100000.txt en colección: coleccion_100000
+[2015-01-24 10:47:08  - Info ] Número de ocurrencias encontradas: 14729
+[2015-01-24 10:47:08  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:08  - Info ] Inicio test: MON_1 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:18  - Info ] Número de ocurrencias encontradas: 242188
+[2015-01-24 10:47:18  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:18  - Info ] Inicio test: MON_2 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:27  - Info ] Número de ocurrencias encontradas: 756818
+[2015-01-24 10:47:27  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:27  - Info ] Inicio test: MON_3 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:27  - Info ] Número de ocurrencias encontradas: 76116
+[2015-01-24 10:47:27  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:27  - Info ] Inicio test: MON_4 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:32  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:47:32  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:32  - Info ] Inicio test: MON_5 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:32  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:47:32  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:32  - Info ] Inicio test: MON_6 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:32  - Info ] Número de ocurrencias encontradas: 5109
+[2015-01-24 10:47:32  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:32  - Info ] Inicio test: MON_7 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:33  - Info ] Número de ocurrencias encontradas: 5713
+[2015-01-24 10:47:33  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:33  - Info ] Inicio test: MON_8 fichero: 1000000.txt en colección: coleccion_1000000
+[2015-01-24 10:47:33  - Info ] Número de ocurrencias encontradas: 146718
+[2015-01-24 10:47:33  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:33  - Info ] Inicio test: MON_1 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:34  - Info ] Número de ocurrencias encontradas: 48395
+[2015-01-24 10:47:34  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:34  - Info ] Inicio test: MON_2 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:35  - Info ] Número de ocurrencias encontradas: 151420
+[2015-01-24 10:47:35  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:35  - Info ] Inicio test: MON_3 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:35  - Info ] Número de ocurrencias encontradas: 15297
+[2015-01-24 10:47:35  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:35  - Info ] Inicio test: MON_4 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:36  - Info ] Número de ocurrencias encontradas: 2
+[2015-01-24 10:47:36  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:36  - Info ] Inicio test: MON_5 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:36  - Info ] Número de ocurrencias encontradas: 0
+[2015-01-24 10:47:36  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:36  - Info ] Inicio test: MON_6 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:36  - Info ] Número de ocurrencias encontradas: 968
+[2015-01-24 10:47:37  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:37  - Info ] Inicio test: MON_7 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:37  - Info ] Número de ocurrencias encontradas: 1165
+[2015-01-24 10:47:37  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:37  - Info ] Inicio test: MON_8 fichero: 200000.txt en colección: coleccion_200000
+[2015-01-24 10:47:37  - Info ] Número de ocurrencias encontradas: 29443
+[2015-01-24 10:47:37  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:37  - Info ] Inicio test: MON_1 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:38  - Info ] Número de ocurrencias encontradas: 72820
+[2015-01-24 10:47:38  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:38  - Info ] Inicio test: MON_2 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:40  - Info ] Número de ocurrencias encontradas: 226903
+[2015-01-24 10:47:40  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:40  - Info ] Inicio test: MON_3 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:40  - Info ] Número de ocurrencias encontradas: 22953
+[2015-01-24 10:47:40  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:40  - Info ] Inicio test: MON_4 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:41  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:47:42  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:42  - Info ] Inicio test: MON_5 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:42  - Info ] Número de ocurrencias encontradas: 2
+[2015-01-24 10:47:42  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:42  - Info ] Inicio test: MON_6 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:42  - Info ] Número de ocurrencias encontradas: 1550
+[2015-01-24 10:47:42  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:42  - Info ] Inicio test: MON_7 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:42  - Info ] Número de ocurrencias encontradas: 1737
+[2015-01-24 10:47:42  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:42  - Info ] Inicio test: MON_8 fichero: 300000.txt en colección: coleccion_300000
+[2015-01-24 10:47:42  - Info ] Número de ocurrencias encontradas: 44043
+[2015-01-24 10:47:42  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:42  - Info ] Inicio test: MON_1 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:45  - Info ] Número de ocurrencias encontradas: 97350
+[2015-01-24 10:47:45  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:45  - Info ] Inicio test: MON_2 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:48  - Info ] Número de ocurrencias encontradas: 302262
+[2015-01-24 10:47:48  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:48  - Info ] Inicio test: MON_3 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:48  - Info ] Número de ocurrencias encontradas: 30770
+[2015-01-24 10:47:48  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:48  - Info ] Inicio test: MON_4 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:51  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:47:51  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:51  - Info ] Inicio test: MON_5 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:51  - Info ] Número de ocurrencias encontradas: 2
+[2015-01-24 10:47:51  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:51  - Info ] Inicio test: MON_6 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:51  - Info ] Número de ocurrencias encontradas: 2009
+[2015-01-24 10:47:51  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:51  - Info ] Inicio test: MON_7 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:51  - Info ] Número de ocurrencias encontradas: 2370
+[2015-01-24 10:47:51  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:51  - Info ] Inicio test: MON_8 fichero: 400000.txt en colección: coleccion_400000
+[2015-01-24 10:47:51  - Info ] Número de ocurrencias encontradas: 59035
+[2015-01-24 10:47:51  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:51  - Info ] Inicio test: MON_1 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:47:55  - Info ] Número de ocurrencias encontradas: 121226
+[2015-01-24 10:47:55  - Info ] Registro actualizado correctamente
+[2015-01-24 10:47:55  - Info ] Inicio test: MON_2 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:00  - Info ] Número de ocurrencias encontradas: 378231
+[2015-01-24 10:48:00  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:00  - Info ] Inicio test: MON_3 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:00  - Info ] Número de ocurrencias encontradas: 38038
+[2015-01-24 10:48:00  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:00  - Info ] Inicio test: MON_4 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:09  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:48:09  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:09  - Info ] Inicio test: MON_5 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:09  - Info ] Número de ocurrencias encontradas: 1
+[2015-01-24 10:48:09  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:09  - Info ] Inicio test: MON_6 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:09  - Info ] Número de ocurrencias encontradas: 2433
+[2015-01-24 10:48:09  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:09  - Info ] Inicio test: MON_7 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:09  - Info ] Número de ocurrencias encontradas: 2943
+[2015-01-24 10:48:09  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:09  - Info ] Inicio test: MON_8 fichero: 500000.txt en colección: coleccion_500000
+[2015-01-24 10:48:10  - Info ] Número de ocurrencias encontradas: 73208
+[2015-01-24 10:48:10  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:10  - Info ] Inicio test: MON_1 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:14  - Info ] Número de ocurrencias encontradas: 145206
+[2015-01-24 10:48:14  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:14  - Info ] Inicio test: MON_2 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:20  - Info ] Número de ocurrencias encontradas: 454181
+[2015-01-24 10:48:20  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:20  - Info ] Inicio test: MON_3 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:20  - Info ] Número de ocurrencias encontradas: 45504
+[2015-01-24 10:48:20  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:20  - Info ] Inicio test: MON_4 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:30  - Info ] Número de ocurrencias encontradas: 3
+[2015-01-24 10:48:30  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:30  - Info ] Inicio test: MON_5 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:31  - Info ] Número de ocurrencias encontradas: 5
+[2015-01-24 10:48:31  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:31  - Info ] Inicio test: MON_6 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:31  - Info ] Número de ocurrencias encontradas: 2941
+[2015-01-24 10:48:31  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:31  - Info ] Inicio test: MON_7 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:31  - Info ] Número de ocurrencias encontradas: 3393
+[2015-01-24 10:48:31  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:31  - Info ] Inicio test: MON_8 fichero: 600000.txt en colección: coleccion_600000
+[2015-01-24 10:48:31  - Info ] Número de ocurrencias encontradas: 87511
+[2015-01-24 10:48:31  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:31  - Info ] Inicio test: MON_1 fichero: 700000.txt en colección: coleccion_700000
+[2015-01-24 10:48:39  - Info ] Número de ocurrencias encontradas: 168801
+[2015-01-24 10:48:39  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:39  - Info ] Inicio test: MON_2 fichero: 700000.txt en colección: coleccion_700000
+[2015-01-24 10:48:54  - Info ] Número de ocurrencias encontradas: 530507
+[2015-01-24 10:48:54  - Info ] Registro actualizado correctamente
+[2015-01-24 10:48:54  - Info ] Inicio test: MON_3 fichero: 700000.txt en colección: coleccion_700000
+[2015-01-24 10:48:54  - Info ] Número de ocurrencias encontradas: 52840
+[2015-01-24 10:48:54  - Info ] Registro actualizado correctamente

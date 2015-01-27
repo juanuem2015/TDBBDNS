@@ -1,0 +1,188 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Proyecto fin de carrera. Tratamiento de datos biomédicos con  base de datos NO-sql. Juan Carlos Mena Marín. </title>
+	
+	<link rel="stylesheet" id="linkCss" href='micss.css' type="text/css">
+	<script type="text/javascript" <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+	
+	<script type="text/javascript">
+	
+	
+	
+	
+
+	
+	
+	
+
+
+	function cargarDivBaseDatosNoSQL(id_basedatos){
+		
+		
+		
+		var url="baseDatosNoSQL.php";
+		$.post(
+			url,
+			{'id_basedatos':id_basedatos },
+				function (data){
+				$("#pantalla").html(data);
+			});
+	} //end of cargarDivBaseDatosNoSQL
+	
+	
+	
+	function testDivBaseDatosNoSQL(id_basedatos){
+		
+		var url="testBaseDatosNoSQL.php";
+		$.post(
+			url,
+			{'id_basedatos':id_basedatos },
+				function (data){
+				$("#pantalla").html(data);
+			});
+	} //end of testDivBaseDatosNoSQL
+	
+	
+	
+	
+	
+	
+	function generaFicheroPrueba( id_fichero ){
+		
+		
+		var url="generaFicheroPrueba.php";
+		$.post(
+			url,
+			{'id_fichero':id_fichero }  ,
+				function (data){
+					$("#pantalla").html(data);
+				});
+			}		 //end of generaFicheroPrueba
+	
+	
+	
+	
+		function seleccionaFichero(id_fichero){
+			
+		
+		var url="seleccionaFicheroPrueba.php";
+		$.post(
+			url,
+			{'id_fichero':id_fichero},
+				function (data){
+					$("#pantalla").html(data);
+				});
+			}		 //end of seleccionaFichero
+			
+			
+			
+			
+			
+		function generaResultadosCassandra(id_basedatos){
+			
+		
+		var url="resultadosCassandra.php";
+		$.post(
+			url,
+			{'id_basedatos':id_basedatos},
+				function (data){
+					$("#pantalla").html(data);
+				});
+			}		 //generaResultadosgenerales	
+			
+		
+		
+		
+			
+		function generaResultadosMongo(id_basedatos){
+			
+		
+		var url="resultadosMongo.php";
+		$.post(
+			url,
+			{'id_basedatos':id_basedatos},
+				function (data){
+					$("#pantalla").html(data);
+				});
+			}		 //end of generaResultadosMongo	
+			
+			
+		function generaResultadosgenerales(id_basedatos){
+			
+		
+		var url="resultadosGenerales.php";
+		$.post(
+			url,
+			{'id_basedatos':id_basedatos},
+				function (data){
+					$("#pantalla").html(data);
+				});
+			}		 //end of generaResultadosgenerales
+			
+			
+			
+	
+			
+
+	</script>
+	
+</head>
+
+<body>
+	
+	
+
+	
+		<div id="menu">
+
+			
+			
+			
+
+			<a href="index.html"><img src="uem.jpg" alt="logotipo" style="width:366px;height:150px;border:0"></a>
+			<h3 style="font-family:verdana">Tratamiento de datos biomédicos en bases de datos NoSQL.</h3>
+
+
+			<br>
+			<br>
+			<ul>
+				<li><a href="#" onclick="generaFicheroPrueba();">Genera fichero de ejemplares</a></li>
+				<li><a href="#" onclick="seleccionaFichero();">Selecciona fichero</a></li>
+				<li><a href="#" onclick="cargarDivBaseDatosNoSQL('MongoDB');">MongoDB. Carga de datos</a></li>
+				<li><a href="#" onclick="testDivBaseDatosNoSQL('MongoDB');">MongoDB. Test</a></li>
+				<li><a href="#" onclick="generaResultadosMongo('MongoDB');">MongoDB. Resultados</a></li>
+				<li><a href="#" onclick="cargarDivBaseDatosNoSQL('Cassandra');">Cassandra. Carga de datos</a></li>
+				<li><a href="#" onclick="testDivBaseDatosNoSQL('Cassandra');">Cassandra. Test</a></li>
+				<li><a href="#" onclick="generaResultadosCassandra('Cassandra');">Cassandra. Resultados</a></li>
+				<li><a href="#" onclick="generaResultadosgenerales('');">Resultados generales</a></li>
+				
+
+			</ul>
+			<br>
+			<br>
+			<br>
+			
+			
+		</div>
+		
+
+		
+		<div id="pantalla">
+			<h2></h2>
+		</div>
+		
+		
+
+
+  
+  
+  
+
+  
+  
+	
+
+</body>
+</html>
